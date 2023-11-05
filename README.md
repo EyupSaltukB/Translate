@@ -20,7 +20,8 @@
 
 # Video
 
-Video süresi uzun olduğu için linkedin hesabımdan detaylı olarak görüntüleyebilirsiniz
+Video süresi uzun olduğu için linkedin hesabımdan detaylı olarak görüntüleyebilirsiniz;
+https://www.linkedin.com/feed/update/urn:li:activity:7127029705827860480/
 
 # GIF
 

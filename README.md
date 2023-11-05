@@ -1,6 +1,8 @@
 # React + Vite
 
-
+Bu projede Redux-Toolkit ile 111 dilde çeviri yapabileceğimiz bir çeviri uygulaması oluşturdum.
+API'dan dil ve çeviri özellikleri axios ile asenkron bir şekilde çekilerek oluşturuldu.
+Stillendirme için kendi SCSS dosyamı kullandım.
 
 # Kütüphaneler
 

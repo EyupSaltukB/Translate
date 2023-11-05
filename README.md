@@ -13,6 +13,18 @@
 - google fonts
 
 
+# Ekran Görüntüleri
+
+![](/public/images/Ekran%20görüntüsü%202023-11-06%20000158.png)
+![](/public/images/Ekran%20görüntüsü%202023-11-06%20000355.png)
+
+# Video
+
+Video süresi uzun olduğu için linkedin hesabımdan detaylı olarak görüntüleyebilirsiniz
+
+# GIF
+
+![](/public/images/translate.gif)
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
